@@ -72,7 +72,4 @@ This repository contains a **web application** built with **React.js** that inte
     ├── models        # Database models (e.g., User)
     └── server.js     # Backend entry point
 ```
----
-## Licence
 
-** MIT
